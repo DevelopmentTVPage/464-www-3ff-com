@@ -12,6 +12,8 @@
     "id": "3817015",
     "loginId": "3",
     "entityType": "1",
+    "sortOrder": "1",
+    "entityIdParent": "3822564",
     "titleTextEncoded": "Choosing-the-Right-Jeans-with-AG",
     "category": null,
     "duration": 141,
@@ -32,7 +34,14 @@
     "CVV_VI": null,
     "engagement_score": "12",
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "9"
     ],

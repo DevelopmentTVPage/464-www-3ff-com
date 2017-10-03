@@ -12,6 +12,8 @@
     "id": "3822565",
     "loginId": "3",
     "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3822564",
     "titleTextEncoded": "AG-Spring-2015-Campaign",
     "category": null,
     "duration": 60,
@@ -32,7 +34,14 @@
     "CVV_VI": null,
     "engagement_score": "12",
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "4"
     ],

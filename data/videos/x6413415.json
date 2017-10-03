@@ -12,6 +12,8 @@
     "id": "6413415",
     "loginId": "3",
     "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "3822564",
     "titleTextEncoded": "The-Model-S-17-Touchscreen-Display",
     "category": null,
     "duration": 318,
@@ -31,7 +33,14 @@
     "CVV_VI": null,
     "engagement_score": "37",
     "conversion_score": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": [
         "26",
         "34"
